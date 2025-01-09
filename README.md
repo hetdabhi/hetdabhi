@@ -21,13 +21,15 @@ I specialize in building responsive and user-friendly websites using modern tech
 🛠️ Experience 
 
 - Web Development Intern  
-Parul University | August 2023 - Present 
+Parul University | August 2023 - Present
+
 - Collaborated with the university's student team to design and maintain responsive websites, enhancing user experience and accessibility.
 - Developed web pages using HTML, CSS, JavaScript, and frameworks like React.js.
 - Gained hands-on experience in version control using Git for managing and deploying code.
 
 - Impact Training
 Parul University | December 2024 - Present
+
 - Used Jira to track project tasks, report bugs, and manage timelines in an agile development environment.
 - Participated in sprint planning, sprint reviews, and daily stand-ups to ensure project goals were met on time.
 - Skilled in version control and team collaboration using Git and GitHub.
