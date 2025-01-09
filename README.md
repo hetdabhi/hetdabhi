@@ -18,7 +18,7 @@ I specialize in building responsive and user-friendly websites using modern tech
 - Time Management: Delivering projects on schedule.
 
 
-🛠️ Experience
+🛠️ Experience 
 
 - Web Development Intern  
 Parul University | August 2023 - Present 
