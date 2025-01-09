@@ -38,7 +38,7 @@ Parul University | December 2024 - Present
 🎓 Education
 
 - Bachelor of Technology in Computer Science & Engineering  
-  *Parul University of Technology | August 2023 - Present  
+  Parul University of Technology | August 2023 - Present  
 
 - Diploma in Computer Engineering
   RMS Polytechnic | September 2020 - May 2023
