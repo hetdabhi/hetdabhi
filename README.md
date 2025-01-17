@@ -1,6 +1,6 @@
 👨‍💻 Het Dabhi
 
-- Software and Web Developer  
+- Software and Web Developer  (`Front-End Developer`)
 
 🚀 About Me
 
