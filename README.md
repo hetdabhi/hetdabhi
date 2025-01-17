@@ -1,8 +1,6 @@
 👨‍💻 Het Dabhi
 
 - Software and Web Developer  
-📧 (mailto:hetdabhiengineer@gmail.com)
-
 
 🚀 About Me
 
