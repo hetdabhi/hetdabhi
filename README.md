@@ -33,7 +33,7 @@
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://linkedin.com/in/hetdabhi" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        src="https://github.com/hetdabhi/hetdabhi/blob/25b4d476e5ae1ee5617a20a1ac0fb7db544e004a/LinkedIn.png"
         alt="hetdabhi" height="40" width="40" /></a>
     <a href="https://instagram.com/het__dabhi" target="blank"><img align="center"
         src="https://github.com/hetdabhi/hetdabhi/blob/9cbcd7ac90dea687c4dd336357523bc4c62594ad/Instagram.png"
