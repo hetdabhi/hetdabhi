@@ -36,7 +36,7 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="hetdabhi" height="30" width="40" /></a>
     <a href="https://instagram.com/het__dabhi" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+        src="https://github.com/hetdabhi/hetdabhi/blob/9cbcd7ac90dea687c4dd336357523bc4c62594ad/Instagram.png"
         alt="het__dabhi" height="30" width="40" /></a>
   </p>
 
