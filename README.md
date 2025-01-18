@@ -37,7 +37,7 @@
         alt="hetdabhi" height="30" width="40" /></a>
     <a href="https://instagram.com/het__dabhi" target="blank"><img align="center"
         src="https://github.com/hetdabhi/hetdabhi/blob/9cbcd7ac90dea687c4dd336357523bc4c62594ad/Instagram.png"
-        alt="het__dabhi" height="30" width="40" /></a>
+        alt="het__dabhi" height="50" width="50" /></a>
   </p>
 
   <!-- Languages and Tools Section -->
