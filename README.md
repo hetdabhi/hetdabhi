@@ -34,7 +34,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/hetdabhi" target="blank"><img align="center"
         src="https://github.com/hetdabhi/hetdabhi/blob/25b4d476e5ae1ee5617a20a1ac0fb7db544e004a/LinkedIn.png"
-        alt="hetdabhi" height="40" width="40" /></a>
+        alt="hetdabhi" height="50" width="50" /></a>
     <a href="https://instagram.com/het__dabhi" target="blank"><img align="center"
         src="https://github.com/hetdabhi/hetdabhi/blob/9cbcd7ac90dea687c4dd336357523bc4c62594ad/Instagram.png"
         alt="het__dabhi" height="40" width="40" /></a>
