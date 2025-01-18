@@ -14,7 +14,7 @@
   <!-- Profile Image (Centered) -->
   <div align="center">
     <img alt="Coding" width="400"
-      src=""/>
+      src="https://github.com/hetdabhi/hetdabhi/blob/6b909cade081dfe8e54f61cc25fd6f8a9f4ad28b/Het.gif"/>
   </div>
 
   <!-- Profile Views -->
