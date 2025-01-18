@@ -1,5 +1,5 @@
 
-![logo](Github Banner.png)
+![logo](https://github.com/hetdabhi/hetdabhi/blob/e3821a7338cc49fcca5c4aa9e13265620686b8f2/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Het Dabhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
