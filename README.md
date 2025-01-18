@@ -14,7 +14,7 @@
   <!-- Profile Image (Centered) -->
   <div align="center">
     <img alt="Coding" width="400"
-      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+      src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)" />
   </div>
 
   <!-- Profile Views -->
