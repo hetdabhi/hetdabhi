@@ -89,14 +89,16 @@
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
         height="40" /> </a>
   </p>
-  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; padding: 20px;">
+   <!-- GitHub Stats Section -->
+  <p align="center">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=hetdabhi&show_icons=true&locale=en&layout=compact"
-      alt="Het Dabhi's Top Languages" style="border-radius: 10px;" />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=hetdabhi&show_icons=true&locale=en"
-      alt="Het Dabhi's GitHub Stats" style="border-radius: 10px;" />
-  </div>
+      alt="hetdabhi" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hetdabhi&show_icons=true&locale=en" alt="hetdabhi" />
+  </p>
   
 </body>
 
