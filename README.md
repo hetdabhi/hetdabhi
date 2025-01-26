@@ -9,7 +9,7 @@
 <body>
 
   <h1 align="center">Hi, I'm Het Dabhi</h1>
-  <h3 align="center">Currently Studying at Parul University.</h3>
+  <h3 align="center"> 🎓 Currently Studying at Parul University.</h3>
 
   <!-- Profile Image (Centered) -->
   <div align="center">
