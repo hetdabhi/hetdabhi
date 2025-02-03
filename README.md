@@ -45,25 +45,22 @@
   </p>
 
   <!-- Technologies and Tools -->
-  <h2 align="center">🛠 Technologies & Tools</h2>
-  <p align="center">
+  <h2 align="left">Technologies & Tools</h2>
+  <p align="left">
     <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,java,python"/>
   </p>
 
   <!-- GitHub Stats -->
-  <h2 align="center">GitHub Stats</h2>
-  <p align="center">
+  <h2 align="left">GitHub Stats</h2>
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=hetdabhi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetdabhi&theme=tokyonight" alt="GitHub Streak Stats" />
-  </p>
-  <p align="center">
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetdabhi&layout=compact&theme=tokyonight" alt="Top Languages" />
   </p>
 
   <!-- Featured Image -->
-  <div align="center">
+  <div align="left">
     <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
   </div>
 
