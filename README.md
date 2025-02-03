@@ -55,12 +55,12 @@
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=hetdabhi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </p>
-  <p align="left">
+  <p align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetdabhi&layout=compact&theme=tokyonight" alt="Top Languages" />
   </p>
 
   <!-- Featured Image -->
-  <div align="left">
+  <div align="center">
     <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
   </div>
 
