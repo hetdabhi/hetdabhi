@@ -7,8 +7,8 @@
 </head>
 
 <body>
-  
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+  <center>
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"></center>
 <br><br>
 
   <h1 align="center">Hi, I'm Het Dabhi</h1>
