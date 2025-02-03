@@ -41,7 +41,7 @@
   <!-- Technologies and Tools -->
   <h2 align="center">🛠 Technologies & Tools</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,java,python,c"/>
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,java,python"/>
   </p>
 
   <!-- GitHub Stats -->
