@@ -29,7 +29,7 @@
     CSS, and
     JavaScript.</p>
 
-      <!-- Connect with Me -->
+  <!-- Connect with Me -->
   <h2 align="center">📬 Connect with Me</h2>
   <p align="center">
     <a href="https://linkedin.com/in/hetdabhi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
