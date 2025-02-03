@@ -7,10 +7,7 @@
 </head>
 
 <body>
-  <center>
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"></center>
-<br><br>
-
+ 
   <h1 align="center">Hi, I'm Het Dabhi</h1>
   <h3 align="center"> "🎓 B.Tech CSE Student at Parul University"</h3>
 
@@ -31,6 +28,11 @@
   <p align="center"><strong>🔭 I’m currently working on:</strong> Building a responsive portfolio & Webpages using HTML,
     CSS, and
     JavaScript.</p>
+    <br><br>
+     <center>
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"></center>
+<br><br>
+
 
   <!-- Connect with Me -->
   <h3 align="center">Connect with me:</h3>
