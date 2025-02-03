@@ -8,7 +8,7 @@
 
 <body>
    
-  <!-- Profile Image (Centered) -->
+  <!-- Profile Banner -->
   <div align="center">
     <img alt="Coding" 
       src="https://github.com/hetdabhi/hetdabhi/blob/2c72482e88a42374d6707bf239cf42106cffb1e6/Website%20Development.gif"/>
@@ -30,9 +30,10 @@
     JavaScript.</p>
     <br><br>
 
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"></center> 
-
-
+  <!-- Featured Image -->
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+  </div>
 
   <!-- Connect with Me -->
   <h3 align="center">Connect with me:</h3>
@@ -90,16 +91,6 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
         height="40" /> </a>
-  </p>
-   <!-- GitHub Stats Section -->
-  <p align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=hetdabhi&show_icons=true&locale=en&layout=compact"
-      alt="hetdabhi" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hetdabhi&show_icons=true&locale=en" alt="hetdabhi" />
   </p>
   
 </body>
