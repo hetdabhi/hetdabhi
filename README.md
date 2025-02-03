@@ -20,7 +20,7 @@
       src="https://github.com/hetdabhi/hetdabhi/blob/main/assets/WebsiteDevelopment.gif"/>
   </div>
 
-  <h1 align="center">👋 Hey there, I'm Het Dabhi!</h1>
+  <h1 align="center">Hey there, I'm Het Dabhi!</h1>
   <h3 align="center">🚀 Passionate Developer | 💻 Tech Enthusiast | 🎓 B.Tech CSE at Parul University</h3>
   
   <!-- Profile Views -->
@@ -29,7 +29,7 @@
   </p>
 
   <!-- About Me -->
-  <h2 align="left">🌟 About Me</h2>
+  <h2 align="left">About Me</h2>
   <p align="left">
     🔹 I specialize in full-stack web development, particularly with modern frameworks like React & Node.js.<br>
     🔹 Currently, I'm building dynamic and scalable applications using MongoDB, Express.js, React, and Node.js.<br>
@@ -37,7 +37,7 @@
   </p>
 
   <!-- Connect with Me -->
-  <h2 align="left">📫 Connect with Me</h2>
+  <h2 align="left">Connect with Me</h2>
   <p align="left">
     <a href="https://linkedin.com/in/hetdabhi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://instagram.com/het__dabhi" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -51,7 +51,7 @@
   </p>
 
   <!-- GitHub Stats -->
-  <h2 align="center">📊 GitHub Stats</h2>
+  <h2 align="center">GitHub Stats</h2>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hetdabhi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </p>
