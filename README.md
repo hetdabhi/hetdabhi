@@ -23,12 +23,6 @@
       alt="Profile Views Badge" />
   </div>
 
-
-  <!-- About Me Section -->
-  <p align="center"><strong>🔭 I’m currently working on:</strong> Building a responsive portfolio & Webpages using HTML,
-    CSS, and
-    JavaScript.</p>
-
   <!-- Connect with Me -->
   <h2 align="center">📬 Connect with Me</h2>
   <p align="center">
