@@ -44,7 +44,7 @@
  <!-- Languages and Tools -->
   <h2 align="center">🛠️ Technologies & Tools</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,c++,html,css,js,react,nodejs,mongodb,bootstrap,java,python"/>
+    <img src="https://skillicons.dev/icons?i=c,c+,html,css,js,react,nodejs,mongodb,bootstrap,java,python"/>
   </p>
   
 </body>
