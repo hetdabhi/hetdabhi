@@ -29,12 +29,7 @@
     CSS, and
     JavaScript.</p>
 
-  <!-- Featured Image -->
-  <div align="center">
-    <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
-  </div>
-
-  <!-- Connect with Me -->
+      <!-- Connect with Me -->
   <h2 align="center">📬 Connect with Me</h2>
   <p align="center">
     <a href="https://linkedin.com/in/hetdabhi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -43,10 +38,15 @@
 
  <!-- Languages and Tools -->
   <h2 align="center">🛠️ Technologies & Tools</h2>
-  <div align="center">
+  <p align="center">
     <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,mongodb,bootstrap,java,python"/>
+  </p>
+
+  <!-- Featured Image -->
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
   </div>
-  
+
 </body>
 
 </html>
