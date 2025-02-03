@@ -7,16 +7,16 @@
 </head>
 
 <body>
- 
-  <h1 align="center"><b>Hi, I'm Het Dabhi</b></h1>
-  <h3 align="center"> "🎓 B.Tech CSE Student at Parul University"</h3>
-
+   
   <!-- Profile Image (Centered) -->
   <div align="center">
     <img alt="Coding" 
       src="https://github.com/hetdabhi/hetdabhi/blob/2c72482e88a42374d6707bf239cf42106cffb1e6/Website%20Development.gif"/>
   </div>
 
+  <h1 align="center">Hi, I'm Het Dabhi</h1>
+  <h3 align="center"> "🎓 B.Tech CSE Student at Parul University"</h3>
+  
   <!-- Profile Views -->
   <div align="center" style="background-color: #ffffff; padding: 10px;">
     <img src="https://komarev.com/ghpvc/?username=hetdabhi&label=Profile%20Views&color=2274c7&style=for-the-badge"
