@@ -21,7 +21,7 @@
   </div>
 
   <h1 align="center">Hey there, I'm Het Dabhi!</h1>
-  <h3 align="center">🚀 Passionate Developer | 💻 Tech Enthusiast | 🎓 B.Tech CSE at Parul University</h3>
+  <h3 align="center">Passionate Developer | Tech Enthusiast | 🎓 B.Tech CSE at Parul University</h3>
   
   <!-- Profile Views -->
   <p align="center">
