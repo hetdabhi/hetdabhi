@@ -43,9 +43,9 @@
 
  <!-- Languages and Tools -->
   <h2 align="center">🛠️ Technologies & Tools</h2>
-  <p align="center">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,mongodb,bootstrap,java,python"/>
-  </p>
+  </div>
   
 </body>
 
