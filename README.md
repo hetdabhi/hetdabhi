@@ -8,7 +8,7 @@
 
 <body>
  
-  <h1 align="center">Hi, I'm Het Dabhi</h1>
+  <h1 align="center"><b>Hi, I'm Het Dabhi</b></h1>
   <h3 align="center"> "🎓 B.Tech CSE Student at Parul University"</h3>
 
   <!-- Profile Image (Centered) -->
