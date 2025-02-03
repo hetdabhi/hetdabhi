@@ -24,8 +24,8 @@
   </div>
 
   <!-- Connect with Me -->
-  <h2 align="center">📬 Connect with Me</h2>
-  <p align="center">
+  <h2 align="left">📬 Connect with Me</h2>
+  <p align="left">
     <a href="https://linkedin.com/in/hetdabhi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://instagram.com/het__dabhi" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   </p>
