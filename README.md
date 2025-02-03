@@ -14,7 +14,7 @@
   <!-- Profile Image (Centered) -->
   <div align="center">
     <img alt="Coding" width="400"
-      src="https://github.com/hetdabhi/hetdabhi/blob/6b909cade081dfe8e54f61cc25fd6f8a9f4ad28b/Het.gif"/>
+      src="https://github.com/hetdabhi/hetdabhi/blob/2c72482e88a42374d6707bf239cf42106cffb1e6/Website%20Development.gif"/>
   </div>
 
   <!-- Profile Views -->
@@ -30,7 +30,7 @@
     JavaScript.</p>
     <br><br>
 
-<!-- <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"></center> -->
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"></center> 
 
 
 
