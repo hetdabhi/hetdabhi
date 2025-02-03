@@ -7,6 +7,9 @@
 </head>
 
 <body>
+  
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+<br><br>
 
   <h1 align="center">Hi, I'm Het Dabhi</h1>
   <h3 align="center"> "🎓 B.Tech CSE Student at Parul University"</h3>
