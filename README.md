@@ -54,7 +54,7 @@
   <h2 align="left">GitHub Stats</h2>
   <div align="center" style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=hetdabhi&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetdabhi&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetdabhi&layout=compact&theme=tokyonight" alt="Top Languages" width=""/>
   </div>
 
 
