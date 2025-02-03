@@ -28,7 +28,6 @@
   <p align="center"><strong>🔭 I’m currently working on:</strong> Building a responsive portfolio & Webpages using HTML,
     CSS, and
     JavaScript.</p>
-    <br><br>
 
   <!-- Featured Image -->
   <div align="center">
@@ -36,14 +35,10 @@
   </div>
 
   <!-- Connect with Me -->
-  <h3 align="center">Connect with me:</h3>
+  <h2 align="center">📬 Connect with Me</h2>
   <p align="center">
-    <a href="https://linkedin.com/in/hetdabhi" target="blank"><img align="center"
-        src="https://github.com/hetdabhi/hetdabhi/blob/25b4d476e5ae1ee5617a20a1ac0fb7db544e004a/LinkedIn.png"
-        alt="hetdabhi" height="50" width="50" /></a>
-    <a href="https://instagram.com/het__dabhi" target="blank"><img align="center"
-        src="https://github.com/hetdabhi/hetdabhi/blob/9cbcd7ac90dea687c4dd336357523bc4c62594ad/Instagram.png"
-        alt="het__dabhi" height="40" width="40" /></a>
+    <a href="https://linkedin.com/in/hetdabhi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://instagram.com/het__dabhi" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   </p>
 
   <!-- Languages and Tools Section -->
