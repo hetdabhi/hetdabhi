@@ -29,24 +29,24 @@
   </p>
 
   <!-- About Me -->
-  <h2 align="left">About Me</h2>
-  <p align="left">
+  <h2 align="center">About Me</h2>
+  <p align="center">
     🔹 I specialize in full-stack web development, particularly with modern frameworks like React & Node.js.<br>
     🔹 Currently, I'm building dynamic and scalable applications using MongoDB, Express.js, React, and Node.js.<br>
     🔹 I love open-source contributions and sharing knowledge with the developer community!<br>
   </p>
 
   <!-- Connect with Me -->
-  <h2 align="left">Connect with Me</h2>
-  <p align="left">
+  <h2 align="center">Connect with Me</h2>
+  <p align="center">
     <a href="https://linkedin.com/in/hetdabhi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://instagram.com/het__dabhi" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://github.com/hetdabhi" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   </p>
 
   <!-- Technologies and Tools -->
-  <h2 align="left">Technologies & Tools</h2>
-  <p align="left">
+  <h2 align="center">Technologies & Tools</h2>
+  <p align="center">
     <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,java,python"/>
   </p>
 
