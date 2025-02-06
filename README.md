@@ -7,6 +7,12 @@
 </head>
 
 <body>
+
+<!-- Profile Image (Centered) -->
+  <div align="center">
+    <img alt="Coding" 
+      src="https://github.com/hetdabhi/hetdabhi/blob/2c72482e88a42374d6707bf239cf42106cffb1e6/Website%20Development.gif"/>
+  </div> 
   
   <!-- Profile Banner -->
   <div align="center">
