@@ -7,17 +7,11 @@
 </head>
 
 <body>
-
-<!-- Profile Image (Centered) -->
-  <div align="center">
-    <img alt="Coding" 
-      src="https://github.com/hetdabhi/hetdabhi/blob/2c72482e88a42374d6707bf239cf42106cffb1e6/Website%20Development.gif"/>
-  </div> 
   
   <!-- Profile Banner -->
   <div align="center">
     <img alt="Website Development" 
-      src="https://github.com/hetdabhi/hetdabhi/blob/main/assets/WebsiteDevelopment.gif"/>
+      src="https://github.com/hetdabhi/hetdabhi/blob/27331e8c2abf5daf9285c4c1edb81a6f8f7f50be/Website%20Development.gif"/>
   </div>
 
   <h1 align="center">Hey there, I'm Het Dabhi!</h1>
