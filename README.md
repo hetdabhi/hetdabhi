@@ -9,7 +9,7 @@
 <body>
   <!-- Featured Image -->
   <div align="center">
-    <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+    <img src="https://github.com/hetdabhi/hetdabhi/blob/main/Let's%20Code.gif" width="300">
   </div>
 
 </body>
