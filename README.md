@@ -24,7 +24,7 @@ I enjoy finding creative solutions to improve user experience and engagement, an
 | **LivMedly** | A dynamic web app with user authentication and CRUD features. | `HTML` `CSS` `JS` `PHP` `SQL` `Data Security` | [Website](https://livmedly.vercel.app/) |
 | **Portfolio** | A personal portfolio website showcasing my skills and work. | `HTML` `CSS` `JS` `Responsive Design` `Vercel` | [Website](https://portfolio-hetdabhi.vercel.app/) |
 | **To-Do List App** | A simple and intuitive to-do list to manage daily tasks. | `React.js` `Node.js` `Express.js` `MongoDB` | [Website](https://to-do-list-olive-phi.vercel.app/) |
-| **LiveWeather App** | A real-time weather application using a public API. | `HTML` `CSS` `JS` `API` `Batchfile` | [Repositorie](https://github.com/hetdabhi/live-weather-app) |
+| **LiveWeather App** | A real-time weather application using a public API. | `HTML` `CSS` `JS` `API` `Batchfile` | [Website](https://github.com/hetdabhi/live-weather-app) |
 
 ---
 
