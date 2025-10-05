@@ -1,8 +1,3 @@
-<!-- Let's Code GIF -->
-<p align="center">
-  <img src="https://github.com/hetdabhi/hetdabhi/blob/main/Let's%20Code.gif" width="250" height="250" alt="Let's Code">
-</p>
-
 # Hi, I'm Het Dabhi
 
 I'm currently pursuing a B.Tech in Computer Science and Engineering at Parul University.  
@@ -65,6 +60,11 @@ HTML, CSS, JavaScript, Responsive Web Design, Portfolio Optimization, Interactiv
 ---
 
 <!-- Banner Image at Bottom -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/hetdabhi/hetdabhi/main/hetdabhi-banner.jpg" width="400" alt="Het Dabhi Banner">
+</p> -->
+
+<!-- Let's Code GIF -->
+<p align="center">
+  <img src="https://github.com/hetdabhi/hetdabhi/blob/main/Let's%20Code.gif" width="250" height="250" alt="Let's Code">
 </p>
