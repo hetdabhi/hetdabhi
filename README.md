@@ -4,6 +4,10 @@ I am a B.Tech Computer Science student with a strong passion for web development
 
 I enjoy finding creative solutions to improve user experience and engagement, and I'm looking forward to applying my technical skills in a remote, open-source-friendly development team.
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=hetdabhi&label=Profile%20Views&color=2274c7&style=for-the-badge" alt="Het Dabhi's Profile Views" />
+</div>
+
 ---
 
 ## Skills
