@@ -21,8 +21,8 @@ I enjoy finding creative solutions to improve user experience and engagement, an
 
 | Project | Description | Technologies Used | Links |
 |---|---|---|---|
-| **LivMedly** | A dynamic web app with user authentication and CRUD features. | `HTML` `CSS` `JS` `PHP` `SQL` `Data Security` | [Live Demo](https://livmedly.vercel.app/) |
-| **Portfolio** | A personal portfolio website showcasing my skills and work. | `HTML` `CSS` `JS` `Responsive Design` `Vercel` | [Live Demo](https://portfolio-hetdabhi.vercel.app/) |
+| **LivMedly** | A dynamic web app with user authentication and CRUD features. | `HTML` `CSS` `JS` `PHP` `SQL` `Data Security` | [Live Site](https://livmedly.vercel.app/) |
+| **Portfolio** | A personal portfolio website showcasing my skills and work. | `HTML` `CSS` `JS` `Responsive Design` `Vercel` | [Live Site](https://portfolio-hetdabhi.vercel.app/) |
 | **LiveWeather App** | A real-time weather application using a public API. | `HTML` `CSS` `JS` `API` `Batchfile` | [GitHub](https://github.com/hetdabhi/live-weather-app) |
 
 ---
