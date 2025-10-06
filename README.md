@@ -1,8 +1,12 @@
-# Hi, I'm Het Dabhi
+# Hi, I'm Het Dabhi 
 
-I am a B.Tech Computer Science student with a strong passion for web development and software engineering. I'm skilled in building user-friendly, responsive websites using **HTML, CSS, JavaScript, and React.js**, with experience in backend technologies like **PHP and MySQL**.
+<div align="justify">
+
+I am a B.Tech Computer Science student with a strong passion for web development and software engineering. I'm skilled in building user-friendly, responsive websites using <strong>HTML, CSS, JavaScript, and React.js</strong>, with experience in backend technologies like <strong>PHP and MySQL</strong>.
 
 I enjoy finding creative solutions to improve user experience and engagement, and I'm looking forward to applying my technical skills in a remote, open-source-friendly development team.
+
+</div>
 
   <tr>
     <td><img src="https://komarev.com/ghpvc/?username=hetdabhi&label=Profile%20Views&color=2274c7&style=for-the-badge" alt="Het Dabhi's Profile Views" /></td>
