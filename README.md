@@ -1,4 +1,4 @@
-# Hi, I'm Het Dabhi 💙
+# Hi, I'm Het Dabhi
 
 <div align="justify">
 
