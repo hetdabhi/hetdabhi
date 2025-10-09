@@ -54,9 +54,6 @@ I enjoy finding creative solutions to improve user experience and engagement, an
   <img src="https://github.com/hetdabhi/hetdabhi/blob/main/Let's%20Code.gif" width="250" height="250" alt="Let's Code">
 </p>
 
-© 2025 Het Dabhi — Licensed under the MIT License.
-
-
 <!-- Banner Image at Bottom -->
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/hetdabhi/hetdabhi/main/hetdabhi-banner.jpg" width="400" alt="Het Dabhi Banner">
