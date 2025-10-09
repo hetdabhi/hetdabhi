@@ -43,10 +43,19 @@ I enjoy finding creative solutions to improve user experience and engagement, an
 
 ---
 
+## License
+
+© 2025 Het Dabhi — Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
 <!-- Let's Code GIF -->
 <p align="center">
   <img src="https://github.com/hetdabhi/hetdabhi/blob/main/Let's%20Code.gif" width="250" height="250" alt="Let's Code">
 </p>
+
+© 2025 Het Dabhi — Licensed under the MIT License.
+
 
 <!-- Banner Image at Bottom -->
 <!-- <p align="center">
